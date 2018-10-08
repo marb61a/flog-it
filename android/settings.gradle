@@ -1,0 +1,3 @@
+rootProject.name = 'flog_it'
+
+include ':app'
